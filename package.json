@@ -1,8 +1,8 @@
 {
-	"name": "@hiepnn/react-diragrams",
+	"name": "@hiepnn/react-diagrams",
 	"author": "hiepnn",
 	"private": false,
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/tult-rk/react-diagrams.git"
